@@ -1,0 +1,23 @@
+/* This is for class */
+.h1{
+    font-size: 50px;
+    background-color: aqua;
+    border-radius: 10px;
+    
+}
+
+.h2{
+    font-size: 20px;
+    background-color: gold;
+    border-radius: 5px;
+    border-width: 10px;
+    
+    border: 20px;
+}
+
+/* This is for ID */
+
+#h3{
+    background-color: chartreuse;
+    border-radius: 5px;
+}

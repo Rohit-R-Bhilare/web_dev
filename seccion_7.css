@@ -1,0 +1,44 @@
+.xyz{
+    border: 10px solid greenyellow;
+    margin: 5px 0%;
+    /* margin:  10px 10px  10px    10px; */
+    /* margin   top  right bottom  left  1 inch 96 pixels */
+
+
+    /* padding: top right bottom left */
+    padding: 13px;
+    
+
+    /* Height and width of border */
+    width: 350px;
+    height: 36px;
+
+    /* Floating Left/Right */
+    float: right;
+
+    /* Align Text */
+    text-align: center;
+}
+.abc{
+    border: 10px solid greenyellow;
+    margin: 5px 0%;
+    /* margin:  10px 10px  10px    10px; */
+    /* margin   top  right bottom  left  1 inch 96 pixels */
+
+
+    /* padding: top right bottom left */
+    padding: 13px;
+    
+
+    /* Height and width of border */
+    width: 350px;
+    height: 120px;
+
+    /* Floating Left/Right */
+    float: left;
+    
+    /* Align Text */
+    text-align: center;
+    text-shadow: 5px;
+    color: aqua;
+}
